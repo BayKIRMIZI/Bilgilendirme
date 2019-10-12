@@ -1,0 +1,2 @@
+Bilgilendirme.cpp Dosyasýný "Birlikte Aç" Diyerek NotePad++ Uygulamasý ile
+Açarsanýz Not Defterinden Daha Düzenli Kullanýrsýnýz.
